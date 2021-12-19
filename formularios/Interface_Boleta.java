@@ -9,7 +9,10 @@ import java.io.Serializable;
 import javax.swing.JOptionPane;
 import modelo.ReportePago;
 
-
+/**
+ *
+ * @author HOGAR
+ */
 public class Interface_Boleta extends javax.swing.JFrame implements Serializable{
 
     /**

@@ -12,6 +12,10 @@ import java.io.Serializable;
 
 import modelo.Administracion;
 
+/**
+ *
+ * @author PAMELA
+ */
 public class VentanaRegistro extends javax.swing.JFrame implements Serializable {
   public  Administracion admi;
     //public InterfazRegistro regis = new InterfazRegistro ();

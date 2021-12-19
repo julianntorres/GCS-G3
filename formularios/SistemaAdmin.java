@@ -10,7 +10,10 @@ import java.io.ObjectInputStream;
 import java.io.Serializable;
 import modelo.TRegistro;
 
-
+/**
+ *
+ * @author PAMELA
+ */
 public class SistemaAdmin extends javax.swing.JFrame implements Serializable {
 
     /**

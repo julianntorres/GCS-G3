@@ -7,7 +7,10 @@ package formularios;
 
 import java.io.Serializable;
 
-
+/**
+ *
+ * @author rubar
+ */
 public class ReporteMes extends javax.swing.JFrame implements Serializable{
 
     /**

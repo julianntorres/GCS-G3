@@ -15,7 +15,10 @@ import modelo.ReportePago;
  * and open the template in the editor.
  */
 
-
+/**
+ *
+ * @author DOUGLAS
+ */
 public class Caja extends javax.swing.JFrame implements Serializable{
 
     /**

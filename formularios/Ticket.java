@@ -8,7 +8,10 @@ package formularios;
 import java.io.Serializable;
 import javax.swing.JOptionPane;
 
-
+/**
+ *
+ * @author PAMELA
+ */
 public class Ticket extends javax.swing.JFrame implements Serializable {
 
     /**

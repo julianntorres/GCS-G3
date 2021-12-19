@@ -8,7 +8,10 @@ package formularios;
 import java.io.Serializable;
 import java.util.ArrayList;
 
-
+/**
+ *
+ * @author PAMELA
+ */
 public class ListaRegistros extends javax.swing.JFrame implements Serializable{
    
     
