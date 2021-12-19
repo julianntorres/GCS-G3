@@ -12,9 +12,9 @@ import java.io.Serializable;
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
+ 
 public class ListaTrabajadores implements Serializable{
-    public Trabajador [] lista = {new Administrador("Jafet Raul", "Puyen Huapaya", "71269132", "975235149", "Jafet2302", "Fisi2302", "jafet.puyen@unmsm.edu.pe") };
+    public Trabajador [] lista = {new Administrador("Jafet Raul", "Puyen Huapaya", "71269132", "975235149", "admin", "1", "jafet.puyen@unmsm.edu.pe") };
     public  String [][] matrizTrabajadores = new String[0][];
     public String [] cabecera = {"N°", "Nombres", "Apellidos", "DNI", "Telefono", "Usuario", "Correo"};
     

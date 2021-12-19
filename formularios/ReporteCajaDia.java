@@ -8,10 +8,7 @@ package formularios;
 import java.io.Serializable;
 import javax.swing.JLabel;
 
-/**
- *
- * @author rubar
- */
+
 public class ReporteCajaDia extends javax.swing.JFrame implements Serializable {
 
     /**

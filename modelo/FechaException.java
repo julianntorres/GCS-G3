@@ -5,10 +5,7 @@
  */
 package modelo;
 
-/**
- *
- * @author rubar
- */
+
 public class FechaException extends RuntimeException{
     
     //Contructor de la clase Fecha Exception
